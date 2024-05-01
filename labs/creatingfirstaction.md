@@ -1,4 +1,4 @@
-## Working with GitHub Repositories
+## Creating your first Action Workflow
 
 ### Overview
 GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline. You can create workflows that run tests whenever you push a change to your repository, or that deploy merged pull requests to production.
@@ -28,11 +28,9 @@ A repository is the most basic element of GitHub. It's a place where you can sto
 
    ![new-repo](../images/create-repo-new.png)
 
-1. In 'Create a new repository' page, in the "Repository name" box, type hello-world.
+1. In 'Create a new repository' page, in the "Repository name" box, type 'github-actions-lab'.
 
-1. In the "Repository name" box, type hello-world.
-
-1. In the "Description" box, type a short description. For example, type "This repository is for practising the GitHub Flow."
+1. In the **Description** box, type a short description. For example, type "This repository is for practising the GitHub actions."
 
 1. For this exercise please select visibility as **Public**
 
