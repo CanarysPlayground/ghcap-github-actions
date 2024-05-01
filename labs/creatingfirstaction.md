@@ -28,7 +28,7 @@ A repository is the most basic element of GitHub. It's a place where you can sto
 
    ![new-repo](../images/create-repo-new.png)
 
-1. In 'Create a new repository' page, in the "Repository name" box, type 'github-actions-lab'.
+1. In `Create a new repository` page, in the "Repository name" box, type `github-actions-lab`.
 
 1. In the **Description** box, type a short description. For example, type "This repository is for practising the GitHub actions."
 
@@ -56,7 +56,7 @@ In short, an event triggers the workflow, which contains a job. This job then us
 
     ![setupyourworkflow](../images/setupyourworkflow.png)
 
-1. As you can see this will create a workflow file in '.github/workflows'. Rename the file to 'CI.yml'  and copy the following YAML contents into the `CI.yml` file. Click **Commit changes**.
+1. As you can see this will create a workflow file in `.github/workflows`. Rename the file to `CI.yml`  and copy the following YAML contents into the `CI.yml` file. Click **Commit changes**.
 
      ![ci](../images/ci.png)
 
@@ -105,7 +105,7 @@ jobs:
     ![proposecichanges](../images/proposecichanges.png)
 
 
-3. Committing the workflow file to a branch in your repository triggers the 'push' event and runs your workflow.
+3. Committing the workflow file to a branch in your repository triggers the `push` event and runs your workflow.
 
 
 

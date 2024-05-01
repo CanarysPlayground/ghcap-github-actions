@@ -75,7 +75,7 @@ jobs:
 
 8. Now you can see  **Bootcamp deploy action** in the **Actions** tab.
 
-9. Since we have added Manual 'workflow_dispatch' event as trigger type, we can trigger this manually only. Click **Run Workflow**
+9. Since we have added Manual `workflow_dispatch` event as trigger type, we can trigger this manually only. Click **Run Workflow**
 
      ![runworkflow](../images/runworkflow.png)
 
