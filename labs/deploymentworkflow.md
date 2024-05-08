@@ -1,7 +1,7 @@
 
 ### Creating Deployment workflow
 
-In this hands-on lab your will create simple deployment workflow using environments . If you like more background information, please refer to the [GitHub Codespaces](https://docs.github.com/en/codespaces) pages on GitHub Docs.
+In this hands-on lab your will create simple deployment workflow using environments . If you like more background information, please refer to the [Deploying with GitHub Actions]([https://docs.github.com/en/codespaces](https://docs.github.com/en/actions/deployment/about-deployments/deploying-with-github-actions)) pages on GitHub Docs.
 
 
 ### Task 1 : Create a Dev Evironment
